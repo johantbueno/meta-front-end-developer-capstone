@@ -15,3 +15,4 @@ View available reservation times for a chosen date and party size
 HTML: Used for the structure of the web pages
 CSS: Used for styling the web pages
 React hooks: Used to manage state and handle user interactions
+![lemon](https://github.com/johantbueno/meta-front-end-developer-capstone/assets/109690188/334a6e93-5e3b-4d25-8c73-a2b7b52dca4c)
